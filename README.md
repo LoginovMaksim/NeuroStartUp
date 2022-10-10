@@ -1,9 +1,19 @@
-# Home work
+## Home work
 
-Test
+# NeuroStartUp
+
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
+ новейших технологий искусственного интеллекта.
+
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
 
 <details>
-    <summary>Текст для вставки в файл README.md</summary>
+    <summary>Нажми меня =)</summary>
 
 ## Список клиентов
 
